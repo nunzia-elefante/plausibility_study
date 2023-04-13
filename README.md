@@ -6,3 +6,5 @@ The evaluation process consisted of two main phases:
 2) Calculation of two separate plausibility scores, one for expert participants (with a programming background) and the other for non-expert participants (without a programming background).
 
 This evaluation process rigorously calculated the plausibility of the proposed attacks and obtained valuable information to evaluate the perceived degree of danger by the participants. Additionally, an analysis of open answers helped to better understand the underlying motivations of the obtained answers.
+
+The whole process is availablein the appropriate excel file inside the plausability test folder.
