@@ -7,4 +7,4 @@ The evaluation process consisted of two main phases:
 
 This evaluation process rigorously calculated the plausibility of the proposed attacks and obtained valuable information to evaluate the perceived degree of danger by the participants. Additionally, an analysis of open answers helped to better understand the underlying motivations of the obtained answers.
 
-The whole process is availablein the appropriate excel file inside the plausability test folder.
+All the responses and the whole process are available in the appropriate Excel file inside the plausibility test folder.
